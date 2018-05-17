@@ -1,5 +1,4 @@
-var index = requrire
-
+var index = requrire("./index.js")
 
 
 
