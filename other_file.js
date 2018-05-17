@@ -1,4 +1,4 @@
-var index = requrire("./index.js")
+var index = require("./index.js")
 
 
 
